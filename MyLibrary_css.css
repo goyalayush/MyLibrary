@@ -1,0 +1,53 @@
+body {
+    background-color: #000000;
+    background-image: url("Background.jpg");
+    margin: 0;
+    font-family: "Avenir", "Monsterrat";
+    
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+    background: #232456; 
+    margin: 0;
+    padding: 20px 0;
+}
+
+
+#stripe {
+    background: white;
+    height: 30px;
+    text-align: center;
+    color: black;
+}
+h2 {
+    color: #000000;
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+    padding: 20px 0;
+}
+h3 {
+    color: black;
+    text-align: center;
+    font-weight: normal;
+    margin: 0;
+}
+.selected {
+    color: white;
+    background: steelblue;
+}
+
+#colorDisplay {
+    font-size: 200%;
+}
+
+
+#message {
+    display: inline-block;
+    width: 20%;
+}
